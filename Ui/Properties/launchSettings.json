@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Ui": {
+      "commandName": "Project"
+    },
+    "WSL": {
+      "commandName": "WSL"
+    }
+  }
+}
